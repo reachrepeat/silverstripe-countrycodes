@@ -1,4 +1,4 @@
-# SilverStripe supported module skeleton
+# SilverStripe CountryCodes Module
 
 A useful skeleton to more easily create modules that conform to the [Module Standard]
 (https://docs.silverstripe.org/en/3.2/developer_guides/extending/modules/#module-standard).
@@ -14,10 +14,7 @@ Below is a template of the sections of your readme.md you should ideally include
 and help others make use of your modules.
 
 ## Requirements
- * SilverStripe ^3.1
- * Other module
- * Other server requirement
- * Etc
+ * SilverStripe ^4.x
 
 ## Installation
 Add some installation instructions here, having a 1 line composer copy and paste is useful. 
@@ -62,8 +59,8 @@ Page:
 ```
 
 ## Maintainers
- * Person here <person@emailaddress.com>
- * Another maintainer <maintain@emailaddress.com>
+ * Mario Sommereder <mario@reachrepeat.com>
+ * Benedikt Hofstätter <benedikt@reachrepeat.com>
  
 ## Bugtracker
 Bugs are tracked in the issues section of this repository. Before submitting an issue please read over 
